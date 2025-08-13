@@ -1,0 +1,12 @@
+# Ignorar compilados
+out/
+
+# Archivos temporales o logs
+*.log
+*.tmp
+
+# Configuraciones de VS Code (opcional)
+.vscode/
+
+# Archivos de datos
+biblioteca.dat
