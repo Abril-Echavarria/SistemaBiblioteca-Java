@@ -1,8 +1,8 @@
 Sistema de biblioteca en Java con gestión de libros, usuarios y préstamos, se ejecuta en la consola y los archivos se guardan cuando se cierran.
 
 Para ejecutarlo:
-    javac -d out src/main/java/com/abril/*.java
-    java -cp out com.abril.Main
+javac -d out src/main/java/com/abril/*.java
+java -cp out com.abril.Main
 
 Opciones:
 0. Cierra el programa, guardando los cambios hechos.

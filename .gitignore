@@ -4,6 +4,7 @@ out/
 # Archivos temporales o logs
 *.log
 *.tmp
+.DS_Store
 
 # Configuraciones de VS Code (opcional)
 .vscode/
